@@ -94,12 +94,12 @@ nav:
         - aulas/01-inteiros/index.md
         - aulas/02-ram/index.md
         - aulas/03-arquitetura-x86/index.md
-        # - aulas/04-funcoes-mov/index.md
-        # - aulas/05-condicionais/index.md
-        # - aulas/06-condicionais-funcoes/index.md  
-        # - aulas/07-loops/index.md
-        # - aulas/08-variaveis-locais/index.md
-        # - aulas/09-arrays/index.md
+        - aulas/04-funcoes-mov/index.md
+        - aulas/05-condicionais/index.md
+        - aulas/06-condicionais-funcoes/index.md  
+        - aulas/07-loops/index.md
+        - aulas/08-variaveis-locais/index.md
+        - aulas/09-arrays/index.md
         # # - aulas/10-malloc/index.md
         # # - aulas/11-tipos-de-dados/index.md
         # # - aulas/12-revisao/index.md
@@ -122,4 +122,7 @@ nav:
     - Dicas:
         - outros/github.md
         - outros/vbox.md
+        - outros/simuladorProcessador.md
+        - outros/gdb.md
+        - outros/CompilerExplorer.md        
 
